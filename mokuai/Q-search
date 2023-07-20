@@ -82,6 +82,9 @@
 # 555 xxx（555电影搜索）
 ^https:\/\/duckduckgo.com\/\?q=55\+([^&]+).+ https://www.555dyy14.com/vodsearch/-------------.html?wd=$1 302
 
+# ag xxx（age动漫搜索）
+^https:\/\/duckduckgo.com\/\?q=ag\+([^&]+).+ https://www.agemys.org/search?query=$1 302
+
 # zh xxx (知乎)
 ^https:\/\/duckduckgo.com\/\?q=zh(\+|%20)([^&]+).+ https://www.zhihu.com/search?q=$2 302
 
