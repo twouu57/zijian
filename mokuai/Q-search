@@ -64,6 +64,9 @@
 # ph  xxx (PornHub)
 ^https:\/\/duckduckgo.com\/\?q=ph\+([^&]+).+ https://cn.pornhub.com/video/search?search=$1 302
 
+# nm  xxx (hanime1)
+^https:\/\/duckduckgo.com\/\?q=nm\+([^&]+).+ https://hanime1.me/search?query=$1 302&type=&genre=&sort=&year=&month=
+
 # ys xxx (cupfox)
 ^https:\/\/duckduckgo.com\/\?q=ys\+([^&]+).+ https://cupfox.app/search?key=$1 302
 
