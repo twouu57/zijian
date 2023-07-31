@@ -1,0 +1,10 @@
+#!name=订阅通
+#!desc=订阅通解锁
+
+[Script]
+
+dingyuetong_7 = type=http-response, pattern=^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$, requires-body=true, max-size=3145728, script-path=https://raw.githubusercontent.com/Yu9191/Rewrite/main/dingyuetong.js, timeout=60, script-update-interval=0
+
+[MITM]
+
+hostname = %APPEND% buy.itunes.apple.com
