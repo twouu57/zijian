@@ -1,4 +1,4 @@
-#!name=Q-Search
+#!name=Safari聚合搜索
 #!desc=快捷切换聚合搜索引擎
 [URL Rewrite]
 # wiki xxx (Wikipedia)
@@ -131,7 +131,7 @@
 ^https:\/\/duckduckgo.com\/\?q=ddg(\+|%20)([^&]+).+ https://duckduckgo.com/?ia=about&q=$2 302
 
 # xxx （无指令默认为 Google）
-# ^https:\/\/duckduckgo.com\/\?q=(?!dl(c|e|j)(\+|%20))([^&]+).+ https://www.google.com/search?q=$3&num=100 302
+^https:\/\/duckduckgo.com\/\?q=(?!dl(c|e|j)(\+|%20))([^&]+).+ https://www.google.com/search?q=$3&num=100 302
 
 [MITM]
 hostname = %APPEND% duckduckgo.com
