@@ -38,7 +38,7 @@
 ^https:\/\/duckduckgo.com\/\?q=yd(\+|%20)([^&]+).+ https://dict.youdao.com/search?q=$2 302
 
 # rm xxx（人民网搜索）
-^https:\/\/duckduckgo.com\/\?q=rm\+([^&]+).+ https://search.people.cn/s?keyword=$1 302
+^https:\/\/duckduckgo.com\/\?q=rm\+([^&]+).+ http://search.people.cn/s?keyword=$1 302
 
 # trc xxx (Google 译至中)
 ^https:\/\/duckduckgo.com\/\?q=trc(\+|%20)([^&]+).+ https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-CN&text=$2 302
