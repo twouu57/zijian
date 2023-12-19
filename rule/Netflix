@@ -1,8 +1,8 @@
 # NAME: Netflix
 # 尝试用asn和简单域名进行分流
 DOMAIN-KEYWORD,netflix
-DOMAIN-KEWORD,nflxvideo
-DOMAIN-KEWORD,nflxso
+DOMAIN-KEYWORD,nflxvideo
+DOMAIN-KEYWORD,nflxso
 DOMAIN-SUFFIX,fast.com
 IP-ASN,136292,no-resolve
 IP-ASN,2906,no-resolve
