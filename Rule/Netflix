@@ -1,0 +1,9 @@
+IP-ASN,136292,no-resolve
+IP-ASN,2906,no-resolve
+IP-ASN,394406,no-resolve
+IP-ASN,40027,no-resolve
+IP-ASN,55095,no-resolve
+DOMAIN-SUFFIX,cookielaw.org,extended-matching
+DOMAIN-SUFFIX,fast.com,extended-matching
+DOMAIN-SUFFIX,onetrust.com,extended-matching
+DOMAIN-KEYWORD,netflix,extended-matching
