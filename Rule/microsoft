@@ -63,4 +63,6 @@ IP-ASN,13811,no-resolve
 IP-ASN,13399,no-resolve
 IP-ASN,132348,no-resolve
 IP-ASN,12076,no-resolve
+DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,365i.team
 DOMAIN-KEYWORD,microsoft,extended-matching
