@@ -85,3 +85,5 @@ IP-ASN,12076,no-resolve
 DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,365i.team
 DOMAIN-KEYWORD,microsoft,extended-matching
+DOMAIN-KEYWORD,phncdn,extended-matching
+DOMAIN-KEYWORD,pornhub,extended-matching
