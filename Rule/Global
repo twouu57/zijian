@@ -1,3 +1,6 @@
+#github
+DOMAIN-KEYWORD,giuhub,extended-matching
+DOMAIN-KEYWORD,githubusercontent,extended-matching
 #meta/facebook
 IP-ASN,32934,no-resolve
 IP-ASN,11917,no-resolve
