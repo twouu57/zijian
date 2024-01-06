@@ -106,6 +106,8 @@ DOMAIN-SUFFIX,tiktokd.org
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-KEYWORD,musical.ly
 DOMAIN-KEYWORD,tiktok
+USER-AGENT,TikTok*
+PROCESS-NAME,com.zhiliaoapp.musically
 
 #github
 DOMAIN-KEYWORD,giuhub
