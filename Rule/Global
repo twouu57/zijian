@@ -80,6 +80,9 @@ IP-ASN,13399
 IP-ASN,132348
 IP-ASN,12076
 
+#tiktok
+DOMAIN-KEYWORD,tiktok
+
 #github
 DOMAIN-KEYWORD,giuhub
 DOMAIN-KEYWORD,githubusercontent
