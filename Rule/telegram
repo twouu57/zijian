@@ -1,6 +1,6 @@
-IP-ASN,59930
-IP-ASN,44907
-IP-ASN,211157
-IP-ASN,62014
-IP-ASN,62041
-DOMAIN,api.swiftgram.app
+IP-ASN,59930,no-resolve
+IP-ASN,44907,no-resolve
+IP-ASN,211157,no-resolve
+IP-ASN,62014,no-resolve
+IP-ASN,62041,no-resolve
+DOMAIN,api.swiftgram.app,extended-matching
