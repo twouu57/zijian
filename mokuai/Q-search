@@ -27,6 +27,7 @@
 
 # gh xxx (GitHub)
 ^https:\/\/duckduckgo.com\/\?q=gh(\+|%20)([^&]+).+ https://github.com/search?q=$2 302
+
 # cy xxx(成语搜索)
 ^https:\/\/duckduckgo.com\/\?q=cy(\+|%20)([^&]+).+ https://mchengyu.qianp.com/$2 302
 
